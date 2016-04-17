@@ -1,6 +1,6 @@
 # babel-plugin-transform-mill
 
-This plugins build for [Mill blog](https://github.com/graffie/mill).
+This plugin is build for [Mill Blog](https://graffie.github.io/mill/#/).
 
 ## Example
 
