@@ -1,4 +1,6 @@
-# babel-plugin-transform-mill
+# babel-plugin-transform-mill 
+
+[![Build Status](https://travis-ci.org/graffie/babel-plugin-transform-mill.svg?branch=master)](https://travis-ci.org/graffie/babel-plugin-transform-mill)
 
 This plugin is build for [Mill Blog](https://graffie.github.io/mill/#/).
 
